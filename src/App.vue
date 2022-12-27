@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <v-btn color="primary">Button</v-btn>
+  <!-- <v-locale-provider rtl> -->
+  <v-btn color="success"> change direction </v-btn>
+  <!-- </v-locale-provider> -->
 </template>
 
 <style scoped></style>
